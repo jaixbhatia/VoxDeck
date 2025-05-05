@@ -1,0 +1,19 @@
+🔍 ==================================================
+🔍 Processing request: 'Change the title to say 'Welcome to VoxDeck''
+🔍 file_cache is only supported with oauth2client<4.0.0
+🔍 Scanning presentation elements...
+🔍 Processing slide 1
+🔍 Found text element: 'Meet the VoxDeck Team 🚀' at (361975, 962100)
+🔍 Element size: 3000000 x 3000000
+🔍 Found text element: 'Some more text' at (6164025, 696800)
+🔍 Element size: 3000000 x 3000000
+🔍 Found text element: 'Some more text' at (6164025, 4316600)
+🔍 Element size: 3000000 x 3000000
+🔍 Found 3 text elements total
+🔍 Parsing request: 'Change the title to say 'Welcome to VoxDeck''
+🔍 Detected CHANGE_TEXT action with new text: 'welcome to voxdeck'
+🔍 Looking for element matching position: Change the title to say 'Welcome to VoxDeck'
+🔍 Looking for main title element
+🔍 Found title element: Meet the VoxDeck Team 🚀
+🔍 file_cache is only supported with oauth2client<4.0.0
+🔍 Successfully updated text to: 'welcome to voxdeck'

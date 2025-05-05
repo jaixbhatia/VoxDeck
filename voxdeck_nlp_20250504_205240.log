@@ -1,0 +1,23 @@
+🔍 ==================================================
+🔍 Processing request: 'Change the text in the top right to say 'holy shit this is working''
+🔍 file_cache is only supported with oauth2client<4.0.0
+🔍 Scanning presentation elements...
+🔍 Processing slide 1
+🔍 Found text element: 'welcome to voxdeck' at (361975, 962100)
+🔍 Element size: 3000000 x 3000000
+🔍 Found text element: 'Some more text' at (6164025, 696800)
+🔍 Element size: 3000000 x 3000000
+🔍 Found text element: 'Some more text' at (6164025, 4316600)
+🔍 Element size: 3000000 x 3000000
+🔍 Found 3 text elements total
+🔍 Parsing request: 'Change the text in the top right to say 'holy shit this is working''
+🔍 Detected CHANGE_TEXT action with new text: 'holy shit this is working'
+🔍 Looking for element matching position: Change the text in the top right to say 'holy shit this is working'
+🔍 Matched position keyword: top
+🔍 Matched position keyword: right
+🔍 Resolved position to: top_right
+🔍 Relative position: (0.20, 0.48)
+🔍 Relative position: (0.84, 0.43)
+🔍 Relative position: (0.84, 1.13)
+🔍 No elements found in the specified position
+🔍 Could not find a matching element
